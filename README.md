@@ -10,13 +10,11 @@
 
 ## 3D model
  
- <img width="381" height="516" alt="Screenshot 2025-12-17 191638" src="https://github.com/user-attachments/assets/9a073129-93b4-4ce7-bc13-241a3fe3c0c1" />
+ <img width="1084" height="678" alt="Screenshot 2025-12-18 164336" src="https://github.com/user-attachments/assets/f48872c8-b47d-4d27-b53e-3104b30a5507" />
 
-<img width="391" height="557" alt="Screenshot 2025-12-17 185712" src="https://github.com/user-attachments/assets/93837329-3275-419d-ba3e-187f1129e652" />
+ <img width="1154" height="703" alt="Screenshot 2025-12-18 164318" src="https://github.com/user-attachments/assets/e6ffea83-4265-4aed-8804-ba4cd81f9d8c" />
 
-<img width="1414" height="606" alt="Screenshot 2025-12-17 185001" src="https://github.com/user-attachments/assets/cbc52970-6ea8-4150-ad65-a08bc2472092" />
-
-<img width="516" height="728" alt="Screenshot 2025-12-17 190926" src="https://github.com/user-attachments/assets/6d362c6d-4bc0-4b8e-b38a-5e761b865229" />
+<img width="1349" height="777" alt="Screenshot 2025-12-18 164245" src="https://github.com/user-attachments/assets/544c1e66-7ae5-4c4f-9bae-a989961b2401" />
 
 ## BOM
 
