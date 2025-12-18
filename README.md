@@ -16,6 +16,10 @@
 
 <img width="1349" height="777" alt="Screenshot 2025-12-18 164245" src="https://github.com/user-attachments/assets/544c1e66-7ae5-4c4f-9bae-a989961b2401" />
 
+<img width="1299" height="750" alt="Screenshot 2025-12-18 173221" src="https://github.com/user-attachments/assets/8e5fb286-a5c7-458c-8121-4c17952e42ee" />
+
+<img width="1138" height="729" alt="Screenshot 2025-12-18 173245" src="https://github.com/user-attachments/assets/0681b0c4-e510-4104-b572-ff75bf91a9a3" />
+
 ## BOM
 
 4x Switches/Buttons
